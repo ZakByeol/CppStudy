@@ -1,0 +1,6 @@
+﻿  func.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+  LINK : C:\CodingFiles\Cpp\AsotrakCpp\23_FileSplit\x64\Debug\23_FileSplit.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+main.obj : error LNK2005: "int global_header" (?global_header@@3HA)이(가) func.obj에 이미 정의되어 있습니다.
+C:\CodingFiles\Cpp\AsotrakCpp\23_FileSplit\x64\Debug\23_FileSplit.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
